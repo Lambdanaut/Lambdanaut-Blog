@@ -4,3 +4,5 @@ dist
 *.*~
 *.hi
 *.o
+_cache/*
+_site/*
