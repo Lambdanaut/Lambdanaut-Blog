@@ -1,8 +1,10 @@
+site
 app
 cabal-dev
 dist
 *.*~
 *.hi
 *.o
+*.swp
 _cache/*
 _site/*
