@@ -44,12 +44,9 @@ h2 {
 
 h3 {
 	display: block;
-	text-align: center;
-	font-size: 1em;
-	color: black;
-	margin-bottom: 10px;
-	border-bottom: dotted 1px black;
-	
+	font-size: 1.2em;
+	color: #99CCFF;
+	margin-top: 1em;
 }
 
 p {
@@ -157,7 +154,7 @@ footer ul li:after {
 .skill ul {
 	display: block;
 	width: 20px;
-	border: solid 3px black;
+	border: solid 3px #99CCFF;
 	list-style-type: none;
 	margin: 2px auto 0 auto;
 }
@@ -165,8 +162,7 @@ footer ul li:after {
 	width: 16px; 
 	height: 17px;
 	margin: 0 auto 2px auto;
-	background-color: black;
-	border: solid 1px black;
+	background-color: #99CCFF;
 }
 .skill ul li:first-child{
 	margin-top: 2px;
