@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -R _site/* ../lambdanaut.github.com/
+cp -R _site/* ../Lambdanaut.github.io/
