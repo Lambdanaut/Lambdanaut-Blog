@@ -68,7 +68,11 @@ a:hover {
 }
 
 ul {
-	list-style: none;
+	/*list-style: none;*/
+}
+
+li {
+	margin-left: 2em;
 }
 
 header {
@@ -103,10 +107,12 @@ footer {
 	font-size: smaller;
 }
 footer ul {
+	list-style: none;
 	margin-top: 25px;
 }
 footer ul li {
 	display: inline;
+	margin-left: 0;
 }
 footer ul li:last-child:after {
 	content: none;
