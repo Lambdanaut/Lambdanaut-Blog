@@ -1,1 +1,1 @@
-web: ./app +RTS -N4
+web: ./site preview
