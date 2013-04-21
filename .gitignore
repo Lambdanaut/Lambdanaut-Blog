@@ -1,5 +1,6 @@
 cabal-dev
 dist
+site
 *.*~
 *.hi
 *.o
