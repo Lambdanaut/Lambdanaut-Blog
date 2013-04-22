@@ -24,6 +24,31 @@ Really, that's the reason I'm making this list!
 
 Yes, you're welcome. 
 
+### Legend
+
+<div class="skill">
+	Love it!
+	<ul>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>
+</div>
+
+<div class="skill">
+	Hate it!
+	<ul>
+		<li class="hidden"></li>
+		<li class="hidden"></li>
+		<li class="hidden"></li>
+		<li class="hidden"></li>
+		<li class="hidden"></li>
+	</ul>
+</div>
+
+<div style="clear:both;"></div>
 
 ### Foods!
 
@@ -50,7 +75,7 @@ Yes, you're welcome.
 </div>
 
 <div class="skill">
-	Watermellon
+	Watermelon
 	<ul>
 		<li class="hidden"></li>
 		<li></li>
@@ -393,4 +418,3 @@ Yes, you're welcome.
 		<li class="hidden"></li>
 	</ul>
 </div>
-
