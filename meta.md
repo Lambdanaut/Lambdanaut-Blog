@@ -14,13 +14,7 @@ I'm Josh! I really don't like talking about myself, so here's a photo of me smil
 What. You're still here?
 ------------------------
 
-Alright, okay. I'm not one to turn down the ambitions of a crazy stalker. It's one of my greatest weaknesses! 
-
-Here, have a contrived list of things that I love and hate. Think of it as a gift from me to you&hellip; in that it should give you a good idea of things to gift me. 
-
-Really, that's the reason I'm making this list! 
-
-Yes, you're welcome. 
+Fine. I'll just divulge everything about me, then. 
 
 ### Legend
 
