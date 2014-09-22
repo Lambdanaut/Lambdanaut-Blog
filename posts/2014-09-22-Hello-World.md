@@ -2,7 +2,7 @@
 title: Hello World!
 ---
 
-I'm going to start blogging here about my journey to teach myself PHD level math and computer science, with the goal of becoming published. 
+I'm going to start blogging here about my journey to teach myself PHD level math and computer science, with the ultimate goal of becoming published. 
 
 
 Why Math?
