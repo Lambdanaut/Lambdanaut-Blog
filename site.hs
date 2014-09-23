@@ -3,6 +3,18 @@
 import           Data.Monoid (mappend)
 import           Hakyll
 
+--------------------------------------------------------------------------------
+------------------------------------ Atom --------------------------------------
+--------------------------------------------------------------------------------
+
+myFeedConfiguration :: FeedConfiguration
+myFeedConfiguration = FeedConfiguration
+    { feedTitle       = "Lambdanaut: Autodidacticism, Math, and Coding"
+    , feedDescription = "A blog about teaching ourselves as apposed to being taught"
+    , feedAuthorName  = "Joshua Thomas"
+    , feedAuthorEmail = "personettelabs@gmail.com"
+    , feedRoot        = "http://lambdanaut.com"
+    }
 
 --------------------------------------------------------------------------------
 main :: IO ()
@@ -19,17 +31,17 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
-    match (fromList ["meta.html", "contact.html"]) $ do
+    match "meta/*" $ do
         route   $ setExtension "html"
         compile $ getResourceBody
-            >>= loadAndApplyTemplate "templates/default.html" defaultContext
+            >>= loadAndApplyTemplate "templates/layout.html" defaultContext
             >>= relativizeUrls
 
     match "posts/*" $ do
         route $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "templates/post.html"    postCtx
-            >>= loadAndApplyTemplate "templates/default.html" postCtx
+            >>= loadAndApplyTemplate "templates/layout.html" postCtx
             >>= relativizeUrls
 
     create ["archive.html"] $ do
@@ -43,7 +55,7 @@ main = hakyll $ do
 
             makeItem ""
                 >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
-                >>= loadAndApplyTemplate "templates/default.html" archiveCtx
+                >>= loadAndApplyTemplate "templates/layout.html" archiveCtx
                 >>= relativizeUrls
 
 
@@ -58,7 +70,7 @@ main = hakyll $ do
 
             getResourceBody
                 >>= applyAsTemplate indexCtx
-                >>= loadAndApplyTemplate "templates/default.html" indexCtx
+                >>= loadAndApplyTemplate "templates/layout.html" indexCtx
                 >>= relativizeUrls
 
     match "templates/*" $ compile templateCompiler
