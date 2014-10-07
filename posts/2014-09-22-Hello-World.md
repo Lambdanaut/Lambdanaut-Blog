@@ -8,7 +8,7 @@ I'm going to start blogging here about my journey to teach myself PHD level math
 Why Math?
 ---------
 
-Why not? I've been programming since I was 12, and I'm 22 at the time of writing this. Even so, Math has never been a strong point of mine. I was unfortunatelly cursed with the plight that is shared by so many other students, that of being stuck with a Math teacher that hates his job and hardly understands math himself. It wasn't until my senior year of highschool that I had an amazing physics teacher when I realized how cool math is. Since then I've been dabbling more and more in math, but really I'm still a novice. I use it in my job all the time, and there's so many cool things I want to be able to do that I have trouble with because I lack a rigorous theoretical foundation. 
+Mostly because it's beautiful, useful, and even fun!(though many might not see it this way) I've been programming since I was 12, and I'm 22 at the time of writing this. Even so, Math has never been a strong point of mine. I was unfortunatelly cursed with the plight that is shared by so many other students, that of being stuck with a Math teacher that hates his job and hardly understands math himself. It wasn't until my senior year of highschool that I had an amazing physics teacher when I realized how cool math is. Since then I've been dabbling more and more in math, but really I'm still a novice. I use it in my job all the time, and there's so many cool things I want to be able to do that I have trouble with because I lack a rigorous theoretical foundation. 
 
 
 Why Self-taught?
@@ -61,5 +61,3 @@ I'll talk more about my daily schedule later, but the gist of it is that every d
 3. Spend some time playing with mathematical concepts I've learned recently on paper. 
 
 Moving at this steady chapter-by-chapter, problem-by-problem level, I hope to make progress towards my goal. 
-
-The goal is to be published by 2022. That year is mostly an arbitrary choice, but I feel like it gives me enough time to really know my shit. 
