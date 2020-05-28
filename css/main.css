@@ -1,9 +1,9 @@
 /* The Lambdanaut-specific styles that are applied just about site-wide. */
 
 /* Font: Press Start 2P */
-@import url(http://fonts.googleapis.com/css?family=Press+Start+2P);
+@import url(//fonts.googleapis.com/css?family=Press+Start+2P);
 /* Font: Telex */
-@import url(http://fonts.googleapis.com/css?family=Telex);
+@import url(//fonts.googleapis.com/css?family=Telex);
 
 /* Text highlight color */
 ::-moz-selection {
