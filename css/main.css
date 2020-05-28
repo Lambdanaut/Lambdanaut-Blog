@@ -36,7 +36,7 @@ h1 {
 }
 
 h2 {
-	font-size: 1.2em;
+	font-size: 1.4em;
 	border-bottom: dashed 2px #99CCFF;
 	color: #99CCFF;
 	margin: 1em 0 1em 0;
@@ -44,6 +44,7 @@ h2 {
 
 h3 {
 	display: block;
+	border-bottom: dotted 1px #99CCFF;
 	font-size: 1.2em;
 	color: #99CCFF;
 	margin-top: 1em;
