@@ -1,5 +1,7 @@
 echo "Building..."
 sh build.sh
+echo "Copying site to ../lambdanaut.github.io"
+sh copy_site.sh
 echo "Committing to Git..."
 cd ../lambdanaut.github.io
 git add .
