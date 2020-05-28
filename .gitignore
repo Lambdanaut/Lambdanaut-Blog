@@ -5,5 +5,8 @@ site
 *.hi
 *.o
 *.swp
+*.lock
 _cache/*
 _site/*
+.DS_Store
+.stack-work/

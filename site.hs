@@ -10,9 +10,9 @@ import           Hakyll
 myFeedConfiguration :: FeedConfiguration
 myFeedConfiguration = FeedConfiguration
     { feedTitle       = "Lambdanaut: Autodidacticism, Math, and Coding"
-    , feedDescription = "A blog about teaching ourselves as apposed to being taught"
+    , feedDescription = ""
     , feedAuthorName  = "Joshua Thomas"
-    , feedAuthorEmail = "personettelabs@gmail.com"
+    , feedAuthorEmail = "lambdanaut@protonmail.com"
     , feedRoot        = "http://lambdanaut.com"
     }
 
