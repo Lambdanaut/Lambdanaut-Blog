@@ -121,6 +121,12 @@ footer ul li:after {
 #footer_image {
 }
 
+.date_info {
+	font-size: small;
+	font-weight: bold;
+	text-align: right;
+}
+
 .project_image {
 	display: block;
 	max-width: 100%;
