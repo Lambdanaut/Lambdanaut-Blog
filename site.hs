@@ -33,6 +33,17 @@ main = hakyll $ do
         route   idRoute
         compile compressCssCompiler
 
+    match "javascript/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+    match "javascript/*/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
+    match "games/*" $ do
+        route   idRoute
+        compile copyFileCompiler
+
     match "meta/*" $ do
         route   $ setExtension "html"
         compile $ getResourceBody
