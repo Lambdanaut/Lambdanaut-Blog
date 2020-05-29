@@ -185,6 +185,8 @@ footer ul li:after {
 
 .thought {
   position: absolute;
+  font-family: 'Press Start 2P', cursive;
+  font-size:0.65em;
   bottom: 25px;
   display: none;
   background-color: #fff;
