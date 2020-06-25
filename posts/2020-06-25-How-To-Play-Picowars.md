@@ -15,6 +15,8 @@ Picowars is an 8bit homage to one of the greatest Nintendo games of all time. Ad
 
 Picowars is a turn-based strategy game where the objective is to build up an army from your bases in order to capture more properties on the map and eventually capture the opposing player's headquarters.
 
+![Gameplay GIF](/images/game-content/picowars-alecia-vs-slydy.gif)
+
 ## New to the franchise?
 
 ### Controls
