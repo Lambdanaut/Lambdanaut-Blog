@@ -11,7 +11,7 @@ Play the full game [HERE](https://lambdanaut.itch.io/picowars)
 
 ## What's that!
 
-Picowars is an 8bit homage to one of the greatest Nintendo games of all time. Advance Wars. That may just me by opinion but it's the right one. 
+Picowars is an 8bit homage to one of the greatest Nintendo games of all time. Advance Wars. That may just be my opinion, but it's the right one. 
 
 Picowars is a turn-based strategy game where the objective is to build up an army from your bases in order to capture more properties on the map and eventually capture the opposing player's headquarters.
 
