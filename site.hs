@@ -43,6 +43,9 @@ main = hakyll $ do
     match "games/*" $ do
         route   idRoute
         compile copyFileCompiler
+    match "games/*/*" $ do
+        route   idRoute
+        compile copyFileCompiler
 
     match "meta/*" $ do
         route   $ setExtension "html"
