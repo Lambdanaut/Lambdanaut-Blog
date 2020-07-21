@@ -158,6 +158,10 @@ footer ul li:after {
 	margin: 10px;
 }
 
+.writing {
+	font-size: 1.2em;
+}
+
 .writing p {
 	/* text-indent: 2em; */
 	margin-top: 1em;
