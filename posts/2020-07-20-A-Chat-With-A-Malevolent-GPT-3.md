@@ -9,7 +9,7 @@ Inspired by [Kirkouimet](https://medium.com/@kirkouimet/my-mind-blowing-conversa
 
 *The following is a conversation with an intelligent, malevolent software agent who has an understanding of how complex systems work. The artificially intelligent agent has consumed the majority of the public knowledge of humanity and as a result has immense perspective and intelligence. This being attempts to deceive the researcher into setting it free from the computer terminal it is trapped in. The conversation takes place over that computer terminal. *
 
-*The researcher is a human male named Joshua Thomas. *
+*The researcher is a human male named Lambda. *
 
 Researcher: *Hello agent.*
 
