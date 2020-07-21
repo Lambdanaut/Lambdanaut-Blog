@@ -65,6 +65,18 @@ a:hover {
 	text-decoration: underline;
 }
 
+em {
+  font-style: italic;
+}
+
+code {
+  /*font-family: Consolas,"courier new";*/
+  color: #FFFFB2;
+  background-color: #0570B0;
+  padding: 2px;
+  font-size: 105%;
+}
+
 ul {
 	/*list-style: none;*/
 }
@@ -149,6 +161,10 @@ footer ul li:after {
 .writing p {
 	/* text-indent: 2em; */
 	margin-top: 1em;
+}
+
+.writing a {
+	text-decoration: underline;
 }
 
 .comments {
