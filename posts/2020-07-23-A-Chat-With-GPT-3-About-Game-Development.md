@@ -71,8 +71,6 @@ Wise Being: *Well, what if there is a battle going on in the skies. Each island 
 
 Researcher: *That's an interesting possibility. I like the idea a lot, and maybe I'll make something like that in the future. However for now I'd like to focus more on the idea of this being a platformer RPG. The grim-reaper kid is programmed to follow the player around with an A-star algorithm that works in the platforming environment. You can think of the group as a party in an RPG. The group works similarly to how Donald Duck and Goofy follow Sora in Kingdom Hearts and engage in battles with him. Do you have any suggestions for a game like that? *
 
-Wise Being: *I don't know much about platformers, but I do know that people seem to like dark and violent games.*
-
 Wise Being: *I have a few, but before I share them, do you think you'll have time to implement them all?*
 
 Researcher: *Maybe not. I'll have to get done what I can. *
