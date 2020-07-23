@@ -59,8 +59,9 @@ Researcher: *That's a neat idea too. What do you think I should do?*
 
 Wise Being: *I'm not sure. What games have you played in the past that you really enjoyed?*
 
-Researcher: *Surprisingly my favorite games are usually intense strategy games. I've been a fan of Starcraft, Warcraft III, Starcraft II, and the Advance Wars series. I even made my own Advance wars fangame this year. 
-Wise Being: I see. Well, maybe you could implement a simple RTS element into your game. There could be different races in this world, such as humans, monsters, and machines. The player could control one of these races and build armies to fight against the other armies. The player could also have the option to play as one of these armies instead. There would be benefits and drawbacks to each choice.*
+Researcher: *Surprisingly my favorite games are usually intense strategy games. I've been a fan of Starcraft, Warcraft III, Starcraft II, and the Advance Wars series. I even made my own Advance wars fangame this year. *
+
+Wise Being: *I see. Well, maybe you could implement a simple RTS element into your game. There could be different races in this world, such as humans, monsters, and machines. The player could control one of these races and build armies to fight against the other armies. The player could also have the option to play as one of these armies instead. There would be benefits and drawbacks to each choice.*
 
 Researcher: *That sounds interesting, but how does that connect to my islands-in-the-sky world, with the grim-reaper kid? *
 
