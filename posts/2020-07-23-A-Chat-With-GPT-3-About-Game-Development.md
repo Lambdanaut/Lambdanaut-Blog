@@ -2,7 +2,7 @@
 title: A Chat With GPT-3 About Game Development
 ---
 
-Inspired by [Kirkouimet](https://medium.com/@kirkouimet/my-mind-blowing-conversations-openais-latest-ai-gpt-3-235ba5fb9453)'s dialogues with GPT-3, I used his prompt to have a discussion with GPT-3 to help me figure out how to progress with my current game project. 
+I play the role of "Researcher" and have a discussion with GPT-3 to help me figure out how to progress with my current game project. GPT-3 plays the role of "Wise Being", and everything said by the wise being is written by an AI. The credit for the prompt goes to [Kirkouimet](https://medium.com/@kirkouimet/my-mind-blowing-conversations-openais-latest-ai-gpt-3-235ba5fb9453)
 
 <video class="tab" controls>
   <source src="/images/video/portmanteaupia8-dialogue.mp4"/>
