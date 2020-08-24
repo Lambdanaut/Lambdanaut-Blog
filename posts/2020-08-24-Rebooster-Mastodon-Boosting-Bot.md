@@ -13,4 +13,6 @@ If you'd like to use it yourself, clone the [source code from Github](https://gi
 
 It's really that easy. 
 
-You can follow me on Mastodon at [lambdanaut@mastodon.gamedev.place](https://mastodon.gamedev.place/)
+
+
+For updates, follow me on Mastodon at [lambdanaut@mastodon.gamedev.place](https://mastodon.gamedev.place/)
