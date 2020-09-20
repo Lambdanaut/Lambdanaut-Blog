@@ -61,6 +61,14 @@ main = hakyll $ do
             >>= loadAndApplyTemplate "templates/layout.html" postCtx
             >>= relativizeUrls
 
+    match "mesclin-posts/*" $ do
+        route $ setExtension "html"
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/post.html" postCtx
+            >>= saveSnapshot "content"
+            >>= loadAndApplyTemplate "templates/layout.html" postCtx
+            >>= relativizeUrls
+
     create ["archive.html"] $ do
         route idRoute
         compile $ do
@@ -72,6 +80,20 @@ main = hakyll $ do
 
             makeItem ""
                 >>= loadAndApplyTemplate "templates/archive.html" archiveCtx
+                >>= loadAndApplyTemplate "templates/layout.html" archiveCtx
+                >>= relativizeUrls
+
+    create ["mesclin.html"] $ do
+        route idRoute
+        compile $ do
+            posts <- recentFirst =<< loadAll "mesclin-posts/*"
+            let archiveCtx =
+                    listField "posts" postCtx (return posts) `mappend`
+                    constField "title" "Mescl.in Archives"   `mappend`
+                    defaultContext
+
+            makeItem ""
+                >>= loadAndApplyTemplate "templates/mesclin.html" archiveCtx
                 >>= loadAndApplyTemplate "templates/layout.html" archiveCtx
                 >>= relativizeUrls
 
