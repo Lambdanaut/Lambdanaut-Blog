@@ -1,17 +1,33 @@
 LAMBDANAUT
 ==========
 
-The Hakyll source code and Markdown posts for my blog
+I yam
+-----
 
+A [Rapidsos Employee](https://rapidsos.com/). Furthermore, all views expressed herein are my own†
 
-Requirements
-------------
+🏩 Fediverse enthusiast/dev
+* Follow me at my Pleroma instance at [Lambdanaut@Mescl.in](https://mescl.in/@lambdanaut)
+* I run a [Lemmy](https://coldcom.press/) instance too. 
+* I also made a [boosting bot](https://github.com/Lambdanaut/Rebooster) for Mastodon that you can use
 
-* Hakyll: `stack install hakyll`
+👾 Gamedev
+* I made some popular [PICO-8](https://www.lexaloffle.com/) games
+  * Like [https://github.com/Lambdanaut/Picowars](Picowars) and [https://github.com/Lambdanaut/BBYS](BBYS)
+* I'm also working on a new game: `Overworld.` Follow me on [Pleroma](https://mescl.in/@lambdanaut) for updates. 
 
+🎨 An Art-eest
+* I like to make creative things. Some of [my art](https://github.com/Lambdanaut/art) is on github.
 
-Installation
-------------
+🖋 A Blogger
+* Okay this one is a stretch, but I do sometimes make posts at [Lambdanaut.com](https://lambdanaut.com)
 
-* Compile and run: `stack exec site build; stack build`
-* Preview: `stack exec site watch`
+💾 A Programmer
+* I mean what did you expect
+  * Most of my code is written in:
+    * Python
+    * Lua
+    * Haskell
+    * Javascript
+
+† *Unless it turns out that we are all just 3 dimensional puppets of a 4th dimensional being, in which case my views expressed are those of the 4th dimensional being.*
