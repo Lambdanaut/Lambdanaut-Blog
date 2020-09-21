@@ -16,9 +16,6 @@ A [Rapidsos Employee](https://rapidsos.com/). Furthermore, all views expressed h
 🎨 An Art-eest
 * I like to make creative things. Some of [my art](https://github.com/Lambdanaut/art) is on github.
 
-🖋 A Blogger
-* Okay this one is a stretch, but I do sometimes make posts at [Lambdanaut.com](https://lambdanaut.com)
-
 💾 A Programmer
 * I mean what did you expect
   * Most of my code is written in:
@@ -26,5 +23,10 @@ A [Rapidsos Employee](https://rapidsos.com/). Furthermore, all views expressed h
     * Lua
     * Haskell
     * Javascript
+
+🖋 A Blogger
+* Okay this one is a stretch, but I do sometimes make posts at [Lambdanaut.com](https://lambdanaut.com)
+
+
 
 † *Unless it turns out that we are all just 3 dimensional puppets of a 4th dimensional being, in which case my views expressed are those of the 4th dimensional being.*
