@@ -1,6 +1,3 @@
-LAMBDANAUT
-==========
-
 I yam
 -----
 
