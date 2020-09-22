@@ -10,7 +10,7 @@ A [Rapidsos Employee](https://rapidsos.com/). Furthermore, all views expressed h
 
 👾 Gamedev
 * I made some popular [PICO-8](https://www.lexaloffle.com/) games
-  * Like [https://github.com/Lambdanaut/Picowars](Picowars) and [https://github.com/Lambdanaut/BBYS](BBYS)
+  * Like [Picowars](https://github.com/Lambdanaut/Picowars) and [BBYS](https://github.com/Lambdanaut/BBYS)
 * I'm also working on a new game: `Overworld.` Follow me on [Pleroma](https://mescl.in/@lambdanaut) for updates. 
 
 🎨 An Art-eest
