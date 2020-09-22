@@ -23,6 +23,7 @@ A [Rapidsos Employee](https://rapidsos.com/). Furthermore, all views expressed h
     * Lua
     * Haskell
     * Javascript
+    * Rust
 
 🖋 A Blogger
 * Okay this one is a stretch, but I do sometimes make posts at [Lambdanaut.com](https://lambdanaut.com)
