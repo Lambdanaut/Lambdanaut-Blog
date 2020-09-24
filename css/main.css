@@ -85,9 +85,13 @@ li {
 	margin-left: 2em;
 }
 
+figure {
+	padding-top: 1em;
+	text-align: center;
+
+}
+
 figcaption {
-	/* Haskell's markdown generates these annoying things under img tags */
-	display: none;
 }
 
 header {

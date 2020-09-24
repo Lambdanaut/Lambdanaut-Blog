@@ -18,7 +18,7 @@ BBYS
 
 So far I've completed one full game: [https://lambdanaut.itch.io/bbys](BBYS) Check it out! I made it for this year's ludumdare46 in Pico-8. I really love Pico-8, though I plan to make the switch to Godot in the near future. I've also done some stuff in Unity and that's great, but it has it's problems. For one, the IDE was far too slow on the large scripts I was writing. 
 
-![BBYS-Demo](/images/game-content/bbysdemo2.gif)
+![BBYS Demo](/images/game-content/bbysdemo2.gif)
 
 
 Pico Wars
