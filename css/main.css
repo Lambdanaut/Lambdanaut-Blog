@@ -298,7 +298,7 @@ footer ul li:after {
 		font-size: 3em;
 		height: 69px;
 	}
-	.thought-container {
+	.hide-on-mobile {
 		display: none;
 	}
 }
