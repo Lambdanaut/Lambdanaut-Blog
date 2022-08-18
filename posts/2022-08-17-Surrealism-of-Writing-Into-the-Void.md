@@ -25,8 +25,6 @@ It was this one btw:
 
 <embed src="/images/video/2022-8-17-overworld-spider-chase.mov" autostart="false" height="360" width="640" /></embed>
 
-<br />
-
 But I do gain value out of blogging. Personal value. I mean, writing in a way that sorta ignores my audience. If you guys get value out of what I'm saying too then that's great but, 
 
 Pandering doesn't feel right to me. 
