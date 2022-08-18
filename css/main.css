@@ -204,6 +204,25 @@ footer ul li:after {
 	clear: both;
 }
 
+.font-family-press-start-2p {
+	font-family: 'Press Start 2P';
+}
+
+.blink {
+  animation: blink-animation 2s steps(5, start) infinite;
+  -webkit-animation: blink-animation 2s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+
 .rainbow-text-shadow {
   font-weight: 100;
   color: #ef3550;

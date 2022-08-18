@@ -11,7 +11,7 @@ myFeedConfiguration :: FeedConfiguration
 myFeedConfiguration = FeedConfiguration
     { feedTitle       = "Lambdanaut: Gamedev, FOSS, and Lambdanaut's life"
     , feedDescription = ""
-    , feedAuthorName  = "Joshua Thomas"
+    , feedAuthorName  = "Joshua Quirk"
     , feedAuthorEmail = "lambdanaut@protonmail.com"
     , feedRoot        = "http://lambdanaut.com"
     }
@@ -104,6 +104,11 @@ main = hakyll $ do
             posts <- fmap (take 10) . recentFirst =<<
                 loadAllSnapshots "posts/*" "content"
             renderAtom myFeedConfiguration feedCtx posts
+
+    match "404.html" $ do
+        route idRoute
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "templates/layout.html" postCtx
 
     match "index.html" $ do
         route idRoute
