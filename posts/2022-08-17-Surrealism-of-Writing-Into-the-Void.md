@@ -2,6 +2,13 @@
 title: Surrealism of Writing Into the Void
 ---
 
+
+<br />
+<pre style="background-color: #1d2b53;">
+<marquee>        👄⚫         <span class="rainbow-text">&lt;Om nom nom nom nom)</span>
+🚹      🦵🦵🦵</marquee>
+</pre>
+
 I haven't shared on here in a while, though it's mostly because <a href="https://jaspervdj.be/hakyll/">Hakyll</a> won't compile on my work laptop, *mostly*. The other reason is that blogging is a surreal experience for me, especially when I don't know my audience. I have literally no idea who you are, or why you would be stalking this blog. 
 
 But from past experience, the highest probability is that you're literally stalking me. 
@@ -19,12 +26,6 @@ It was this one btw:
 <embed src="/images/video/2022-8-17-overworld-spider-chase.mov" autostart="false" height="360" width="640" /></embed>
 
 <br />
-
-<br />
-<pre style="background-color: #1d2b53;">
-<marquee>        👄⚫         <span class="rainbow-text">&lt;Om nom nom nom nom)</span>
-🚹      🦵🦵🦵</marquee>
-</pre>
 
 But I do gain value out of blogging. Personal value. I mean, writing in a way that sorta ignores my audience. If you guys get value out of what I'm saying too then that's great but, 
 
