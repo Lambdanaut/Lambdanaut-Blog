@@ -19,10 +19,10 @@ It was this one btw:
 <embed src="/images/video/2022-8-17-overworld-spider-chase.mov" autostart="false" height="360" width="640" /></embed>
 
 <br />
-<span class="rainbow-text">**Om nom nom nom nom**</span>
+
 <br />
-<pre style="background-color: #d0d0d0;">
-<marquee>        👄⚫
+<pre style="background-color: #1d2b53;">
+<marquee>        👄⚫         <span class="rainbow-text">&lt;Om nom nom nom nom)</span>
 🚹      🦵🦵🦵</marquee>
 </pre>
 
