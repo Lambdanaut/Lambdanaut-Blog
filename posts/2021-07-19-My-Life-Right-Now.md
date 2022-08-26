@@ -29,7 +29,7 @@ Some of my characters:
 Other than that, progress has started back up on my Gamedev project: <a href="https://twitter.com/search?q=%23overworld&src=typed_query">Overworld</a>. Here's some in-game aesthetics showoff:
 
 <div style='text-align: center; margin-top: 25px;'>
-<embed src="/images/video/overworld-background-tiles.webm" autostart="false" height="360" width="640" /></embed>
+<video src="/images/video/overworld-background-tiles.webm" height="360" width="640" controls /></video>
 It's a video! Watch it! 
 </div>
 

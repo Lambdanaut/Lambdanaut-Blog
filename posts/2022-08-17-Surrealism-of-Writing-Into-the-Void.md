@@ -22,7 +22,7 @@ Speaking of people liking something I've made, I put a short clip on social medi
 
 It was this one btw: 
 
-<embed src="/images/video/2022-8-17-overworld-spider-chase.webm" autostart="false" height="360" width="640" /></embed>
+<video src="/images/video/2022-8-17-overworld-spider-chase.webm" height="360" width="640" controls autoplay loop /></video>
 
 So that happened! 
 
