@@ -43,7 +43,7 @@ Granted every time I thought that, I'd shortly after rescind the statement.
 
 Puzzle design is tough, and every time I'd think I had a puzzle that was somewhat cool, I would realize that it's actually pretty: 
 
-* Stale
+* Linear
 * Unintuitive
 * and Mechanical
 
