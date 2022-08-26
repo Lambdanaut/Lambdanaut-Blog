@@ -5,8 +5,7 @@ title: Surrealism of Writing Into the Void
 
 <br />
 <pre style="background-color: #1d2b53;">
-<marquee>        👄⚫         <span class="rainbow-text">&lt;Om nom nom nom nom)</span>
-🚹      🦵🦵🦵</marquee>
+<marquee>        👄⚫         <span class="rainbow-text">&lt;Om nom nom nom nom)</span><br />🚹      🦵🦵🦵</marquee>
 </pre>
 
 I haven't shared on here in a while, though it's mostly because <a href="https://jaspervdj.be/hakyll/">Hakyll</a> won't compile on my work laptop, *mostly*. The other reason is that blogging is a surreal experience for me, especially when I don't know my audience. I have literally no idea who you are, or why you would be stalking this blog. 
