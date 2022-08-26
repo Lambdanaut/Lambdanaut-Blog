@@ -83,7 +83,7 @@ It's weird to implement backtracking as a mechanic in a game in which nothing bu
 
 **I'm going to finish this fucking game**
 
-It's probably another week of dev out from a version 1.0.0, but we'll get there! I've had Overworld on hiatus for this project, and honestly I'm itching to get back to it. I've put so much work into that game.. and there's a lot more work left.. but I like where it's headed. 
+It's probably another week of dev out from a version 1.0.0, but we'll get there! I've had Overworld on hiatus for this project, and honestly I'm itching to get back to it. I've put so much work into Overworld.. and there's a lot more work left.. but I like where it's headed. 
 
 I'll post here the results from the minijam ratings. I think there's a good chance of taking a second or third place! 
 
