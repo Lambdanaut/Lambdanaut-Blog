@@ -139,7 +139,7 @@ main = hakyll $ do
     match "index.html" $ do
         route idRoute
         compile $ do
-            posts <- recentFirst =<< loadAll "posts/*"
+            posts <- recentFirst . fmap (take 10) =<< loadAll "posts/*"
             let indexCtx =
                     listField "posts" postCtxWithTags (return posts) `mappend`
                     constField "title" "Home"                `mappend`
