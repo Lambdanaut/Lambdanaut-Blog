@@ -1,6 +1,6 @@
 ---
 title: Multidimensional Travel Primer
-tags: big-thunk, what-even
+tags: the-map
 ---
 
 Two systems, A and B. A ***lies*** wholly inside of B, and as such its rules are described in their entirety by the rules of B. B ***lies*** wholly inside of C, which ***lies*** within D, and so on and so forth, until you invert the whole system of systems and expose the lieing spot of that slumbering liar who dreams up such this and thats.
@@ -17,6 +17,6 @@ Imagine if you can that you have B, and you're looking in at A from this perspec
 
 What if you had built in hidden theorems within A that point to the original axioms? What if, by changing the original axioms, little A was made to look like big B?
 
-I'm asking what if A contained B, and B contained A?
+I'm asking: what if A contained B, and B contained A?
 
 What if YOUR ruleset was identical to your theorems

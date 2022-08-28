@@ -1,22 +1,16 @@
---------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 
 import           Hakyll
-import           Data.Monoid (mappend)
-import           Data.Maybe (fromMaybe)
-import           Control.Monad (forM)
+import           Data.List (intersperse)
+import           Data.Monoid ( mappend )
+import           Data.Maybe ( fromMaybe )
+import           Control.Monad ( forM, mplus )
+import           Text.Blaze.Html                 (toHtml, toValue, (!))
+import qualified Text.Blaze.Html5                as H
+import qualified Text.Blaze.Html5.Attributes     as A
 
 
-data TagMetadata = TagMetadata
-                 { tagName :: String
-                 , tagUrl :: String
-                 , tagCount :: Int
-                 }
-
---------------------------------------------------------------------------------
------------------------------------- Atom --------------------------------------
---------------------------------------------------------------------------------
-
+-- Atom feed configuration
 myFeedConfiguration :: FeedConfiguration
 myFeedConfiguration = FeedConfiguration
     { feedTitle       = "Lambdanaut: Gamedev, FOSS, and Lambdanaut's life"
@@ -26,7 +20,45 @@ myFeedConfiguration = FeedConfiguration
     , feedRoot        = "http://lambdanaut.com"
     }
 
---------------------------------------------------------------------------------
+
+----------------------------------------------------------------------
+-- Custom build tags functionality -----------------------------------
+----------------------------------------------------------------------
+data TagMetadata = TagMetadata
+                 { tagName :: String
+                 , tagUrl :: String
+                 , tagCount :: Int
+                 }
+
+
+tagsMetadata :: Tags -> Compiler [TagMetadata]
+tagsMetadata tags = do
+    let tagsList = map fst $ tagsMap tags
+    forM (tagsMap tags) $ \(tag, ids) -> do
+        route' <- getRoute $ tagsMakeId tags tag
+        return $ TagMetadata tag (fromMaybe "/" route') (length ids)
+
+tagsFieldCustom :: String     -- ^ Destination key
+                -> Tags       -- ^ Tags
+                -> Context a  -- ^ Context
+tagsFieldCustom =
+  tagsFieldWith getTags simpleRenderLink (mconcat . intersperse " ")
+
+-- | Render one tag link
+simpleRenderLink :: String -> (Maybe FilePath) -> Maybe H.Html
+simpleRenderLink _   Nothing         = Nothing
+simpleRenderLink tag (Just filePath) = Just $
+    H.a ! A.title (H.stringValue ("All pages tagged '"++tag++"'."))
+        ! A.href (toValue $ toUrl filePath)
+        ! A.class_ "tag"
+        $ toHtml tag
+
+postCtx :: Tags -> Context String
+postCtx tags =
+    tagsFieldCustom "tags" tags
+        `mappend` dateField "date" "%B %e, %Y"
+        `mappend` defaultContext
+
 main :: IO ()
 main = hakyll $ do
 
@@ -139,7 +171,7 @@ main = hakyll $ do
     match "index.html" $ do
         route idRoute
         compile $ do
-            posts <- fmap (take 11) . recentFirst =<< loadAll "posts/*"
+            posts <- fmap (take 15) . recentFirst =<< loadAll "posts/*"
             let indexCtx =
                     listField "posts" postCtxWithTags (return posts) `mappend`
                     constField "title" "Home"                `mappend`
@@ -152,20 +184,3 @@ main = hakyll $ do
 
     match "templates/*" $ compile templateCompiler
 
-
---------------------------------------------------------------------------------
-
-
-tagsMetadata :: Tags -> Compiler [TagMetadata]
-tagsMetadata tags = do
-    let tagsList = map fst $ tagsMap tags
-    forM (tagsMap tags) $ \(tag, ids) -> do
-        route' <- getRoute $ tagsMakeId tags tag
-        return $ TagMetadata tag (fromMaybe "/" route') (length ids)
-
-
-postCtx :: Tags -> Context String
-postCtx tags =
-    tagsField "tags" tags
-        `mappend` dateField "date" "%B %e, %Y"
-        `mappend` defaultContext

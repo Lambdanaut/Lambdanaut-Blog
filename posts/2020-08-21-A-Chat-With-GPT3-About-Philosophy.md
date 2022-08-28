@@ -1,6 +1,6 @@
 ---
 title: A Chat With GPT-3 About Consciousness
-tags: gpt-3, ai
+tags: gpt-3-chat
 ---
 
 I play the role of "Researcher" and have a discussion with GPT-3 about philosophy. GPT-3 plays the role of "Wise Being", and everything said by the wise being is written by an AI. The credit for the prompt goes to [Kirkouimet](https://medium.com/@kirkouimet/my-mind-blowing-conversations-openais-latest-ai-gpt-3-235ba5fb9453)

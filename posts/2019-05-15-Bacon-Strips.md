@@ -1,6 +1,6 @@
 ---
 title: Bacon Strips
-tags: what-even, poetry
+tags: the-map, poetry
 ---
 
 You're hallucinating now. What you're seeing isn't real. What you're seeing is fake, as in, it is not part of reality. We determine reality. We will tell you what is real and what is not. We will graciously show you reality:

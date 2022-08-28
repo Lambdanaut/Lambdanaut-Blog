@@ -1,6 +1,6 @@
 ---
 title: Buddhabot
-tags: big-thunk, what-even
+tags: big-thunk, the-map
 ---
 
 Imagine that you aren't a human. Instead, you are the first self-aware artificially intelligent program. I dont know what it's "like" to "be" this program, but I know that there is an experience of some kind occuring. That's now the experience you attach yourself with. 

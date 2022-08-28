@@ -221,13 +221,21 @@ footer ul li:after {
 
 .tags {
 	display: inline;
-	padding: 4px 6px;
-  background-color: #1d2b53;
 	font-size: smaller;
 	white-space: nowrap;
 }
 .tags a {
 	color: #99CCFF;
+}
+.tag {
+	padding: 2px 6px;
+  background-color: #1d2b53;
+	white-space: nowrap;
+}
+.tag.big {
+	padding: 8px 24px;
+	margin-right: 10px;
+	line-height: 55px;
 }
 
 .clear {
@@ -371,12 +379,25 @@ footer ul li:after {
 
 
 /* Responsive */
+@media only screen and (max-width: 960px) {
+	/* Small-screen(not mobile) */
+	.hide-on-small-screen {
+		display: none;
+	}
+}
 @media only screen and (max-width: 767px) {
+	/* Mobile */
 	header {
 		font-size: 3em;
 		height: 69px;
 	}
 	.hide-on-mobile {
+		display: none;
+	}
+}
+@media only screen and (max-width: 600px) {
+	/* Mobile */
+	.hide-on-small-mobile {
 		display: none;
 	}
 }
