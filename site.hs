@@ -1,8 +1,8 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 
-import           Data.Monoid (mappend)
 import           Hakyll
+import           Data.Monoid (mappend)
 import           Data.Maybe (fromMaybe)
 import           Control.Monad (forM)
 
@@ -21,8 +21,8 @@ myFeedConfiguration :: FeedConfiguration
 myFeedConfiguration = FeedConfiguration
     { feedTitle       = "Lambdanaut: Gamedev, FOSS, and Lambdanaut's life"
     , feedDescription = ""
-    , feedAuthorName  = "Joshua Quirk"
-    , feedAuthorEmail = "lambdanaut@protonmail.com"
+    , feedAuthorName  = "Lambdanaut"
+    , feedAuthorEmail = "lambdanaut@Lambdanaut.com"
     , feedRoot        = "http://lambdanaut.com"
     }
 
@@ -139,7 +139,7 @@ main = hakyll $ do
     match "index.html" $ do
         route idRoute
         compile $ do
-            posts <- recentFirst . fmap (take 10) =<< loadAll "posts/*"
+            posts <- fmap (take 17) . recentFirst =<< loadAll "posts/*"
             let indexCtx =
                     listField "posts" postCtxWithTags (return posts) `mappend`
                     constField "title" "Home"                `mappend`

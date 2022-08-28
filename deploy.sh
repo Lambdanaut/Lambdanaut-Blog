@@ -1,8 +1,8 @@
 echo "Building..."
 echo "======================================================================="
-sh build.sh
+sh build.sh || exit 1
 echo "Copying site to ../lambdanaut.github.io"
-sh copy_site.sh
+sh copy_site.sh || exit 1
 cd ../lambdanaut.github.io
 echo "Merging remote into local master branch..."
 echo "======================================================================="

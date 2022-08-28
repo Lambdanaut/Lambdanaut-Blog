@@ -24,7 +24,7 @@ Preview Site
 Build and Upload
 ----------------
 
-`./build-and-upload.sh`
+`./deploy.sh`
 
 *Note*: lambdanaut.github.io must be cloned up one directory for this command to succeed. 
 
