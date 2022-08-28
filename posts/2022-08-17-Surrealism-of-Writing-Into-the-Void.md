@@ -1,5 +1,6 @@
 ---
 title: Surrealism of Writing Into the Void
+tags: diary, gamedev, overworld
 ---
 
 

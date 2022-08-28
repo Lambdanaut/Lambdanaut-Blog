@@ -1,5 +1,6 @@
 ---
 title: A Chat With a Malevolent GPT-3
+tags: gpt-3, ai
 ---
 
 <div style='text-align: center;'><img src="/images/post-content/glados-potato.jpg" /></div>

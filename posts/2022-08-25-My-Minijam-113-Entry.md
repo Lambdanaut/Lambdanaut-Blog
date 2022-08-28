@@ -1,5 +1,6 @@
 ---
 title: Paradox - Minijam 113 Entry
+tags: gamedev, overworld, paradox
 ---
 
 <img src="/images/footer-paradox.gif" style="vertical-align: bottom; margin-right: 1em;" /> There's a new sneaki boi in the bushes and its name is *Charnel Fontaine*

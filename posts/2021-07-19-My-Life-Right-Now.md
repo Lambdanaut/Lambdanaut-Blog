@@ -1,5 +1,6 @@
 ---
 title: My Life Right Now (Burns, Buns, and Gamedev)
+tags: diary
 ---
 
 Hey hey hey! 

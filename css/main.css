@@ -97,7 +97,7 @@ a {
 	text-decoration: none;
 } 
 a:visited {
-	color: #bb7f00;
+	color: #d39000;
 }
 a:hover {
 	text-decoration: underline;
@@ -129,6 +129,12 @@ li {
 	margin-left: 2em;
 }
 
+ul .inline {
+	display: inline;
+	margin-right: 5em;
+}
+
+
 figure {
 	padding-top: 1em;
 	text-align: center;
@@ -137,7 +143,7 @@ figure {
 figcaption {
 }
 
-#content_wrapper {
+#content-wrapper {
 	clear: both;
 	max-width: 960px;
 	margin: 0 auto;
@@ -172,25 +178,24 @@ footer ul li:after {
 	content: " | ";
 }
 
-.date_info {
+.post-title {
+	margin-top: 2em;
+  margin-bottom: 0.4em;	
+}
+.post-date-info {
+	float: right;
 	font-size: small;
 	font-weight: bold;
-	text-align: right;
 }
 
-.project_image {
-	display: block;
-	max-width: 100%;
-}
-
-.gallery_image {
-	border: solid 10px #DDDDFF;
-	float: left;
-	box-shadow: 2px 5px 3px black;
-	margin: 10px;
+.post-list-date {
+	white-space: nowrap;
+	font-size: smaller;
+	vertical-align: middle-top;
 }
 
 .writing {
+	margin-top: 2em;
 	font-size: 1.2em;
 }
 
@@ -203,8 +208,15 @@ footer ul li:after {
 	text-decoration: underline;
 }
 
-.comments {
-	background-color: red;
+.tags {
+	display: inline;
+	padding: 4px 6px;
+  background-color: #1d2b53;
+	font-size: smaller;
+	white-space: nowrap;
+}
+.tags a {
+	color: #99CCFF;
 }
 
 .clear {

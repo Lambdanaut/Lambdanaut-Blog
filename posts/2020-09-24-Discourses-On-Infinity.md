@@ -1,5 +1,6 @@
 ---
 title: Discourses on Infinity
+tags: fiction
 ---
 
 This is a place for me to share fictional discourses and scrawlings on topics related to infinity.

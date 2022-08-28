@@ -1,5 +1,6 @@
 ---
 title: AI Pathfinding In a Platformer
+tags: gamedev, overworld
 ---
 
 In order to learn the [Godot Game Engine](https://godotengine.org/) I decided to challenge myself by implementing the [A* Pathfinding Algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm) with a caveat: instead of pathfinding on a top-down grid, the world would be a 2D platformer with jumping, gravity, and collisions.

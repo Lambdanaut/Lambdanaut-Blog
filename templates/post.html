@@ -1,5 +1,10 @@
-<h1 class="rainbow-text-shadow">$title$</h1>
-<div class="date_info">Posted $date$</div>
+<h1 class="post-title rainbow-text-shadow">$title$</h1>
+<div>
+<span class="post-date-info">Posted <u>$date$</u></span>
+$if(tags)$
+<span class="tags">Tags: $tags$</span>
+$endif$
+</div>
 <div class="writing">
 	$body$
 </div>

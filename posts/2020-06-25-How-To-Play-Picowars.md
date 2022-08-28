@@ -1,5 +1,6 @@
 ---
 title: How To Play Picowars
+tags: picowars
 ---
 
 <div style='text-align:center;'>

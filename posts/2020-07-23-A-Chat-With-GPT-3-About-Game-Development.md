@@ -1,5 +1,6 @@
 ---
 title: A Chat With GPT-3 About Gamedev
+tags: gpt-3, ai
 ---
 
 I play the role of "Researcher" and have a discussion with GPT-3 to help me figure out how to progress with my current game project. GPT-3 plays the role of "Wise Being", and everything said by the wise being is written by an AI. The credit for the prompt goes to [Kirkouimet](https://medium.com/@kirkouimet/my-mind-blowing-conversations-openais-latest-ai-gpt-3-235ba5fb9453)

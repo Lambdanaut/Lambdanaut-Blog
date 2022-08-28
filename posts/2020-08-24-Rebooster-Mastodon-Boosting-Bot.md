@@ -1,5 +1,6 @@
 ---
 title: A Mastodon Hashtag Boosting Bot
+tags: fediverse, oss
 ---
 
 Over the weekend I dove into the world of [Mastodon bot building](https://mastodonpy.readthedocs.io/en/stable/) and came up with a simple customizable script that reads the global Mastodon timeline, listening for new toots tagged with specified hashtags, and retooting them as they show up. 
