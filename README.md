@@ -1,7 +1,7 @@
-Lambdanaut.com Source
-=====================
+Lambdanaut.com Source Code
+==========================
 
-This is the source code for my blog, made in [Haskell](https://www.haskell.org/) using the [Hakyll](https://jaspervdj.be/hakyll/) web framework.
+This is the source code for [Lambdanaut.com](https://lambdanaut.com), made in [Haskell](https://www.haskell.org/) using the [Hakyll](https://jaspervdj.be/hakyll/) web framework.
 
 Installation
 ------------
