@@ -45,7 +45,7 @@ And it feels
     <div class='rainbow-text-loop center'>🎆 SO 🎆<br /><br />🎆 FUCKING 🎆<br /><br />🎆 GOOD 🎆</div>
 </marquee>
 
-Before moving here, I thought that it was natural for housemakes to shirk duties and always negotiate for any chance to not have to commit. 
+Before moving here, I thought that it was natural for housemates to shirk duties and always negotiate for any chance to not have to commit. 
 
 I thought dependable housemates were like unicorns. 
 
@@ -73,7 +73,7 @@ WELL THAT'S ENOUGH FOR NOW
 
 <br /><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
-
+    
 
 NO REALLY GTFO
 ==============
