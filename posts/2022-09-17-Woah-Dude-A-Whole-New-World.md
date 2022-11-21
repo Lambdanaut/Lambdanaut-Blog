@@ -60,7 +60,7 @@ ROCHESTER HAS A BIG FUCKING FARMER'S MARKET
 
 It's true! It's big! 
 
-![As you can see in subject A, shared above](/images/post-content/rochester-farmers-market.jpeg "Subject A")
+![As you can see in subject A and B, shared above](/images/post-content/rochester-farmers-market.jpeg "Subject A")
 
 It's the biggest one in the state, or so I've heard from a real Rochester history buff (my nerd of a landlord)
 

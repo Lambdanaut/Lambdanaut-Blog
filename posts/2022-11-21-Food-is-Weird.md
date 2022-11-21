@@ -3,9 +3,6 @@ title: Food is Weird
 tags: diary
 ---
 
-Food is Weird
-=============
-
 So it's 2010, I'm 18 years old, and I've left home to live states away with my internet girlfriend. As you know, these types of stories always end so well. 
 
 Fast forward two years. I'm drowning in a toxic relationship with no room to breathe. I experienced my needs being crushed by the interminable pressure of a partner who just wasn't right for me. 

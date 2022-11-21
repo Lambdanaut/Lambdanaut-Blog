@@ -15,7 +15,7 @@ git commit -m "commit-date: `date '+%Y-%m-%d %H:%M:%S'`"
 echo "Pushing to remote..."
 echo "======================================================================="
 git push origin master
-cd ../Lambdanaut
+cd ../Lambdanaut-Blog
 echo "======================================================================="
 echo "Complete!"
 echo "======================================================================="
