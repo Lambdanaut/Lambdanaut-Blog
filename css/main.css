@@ -256,6 +256,19 @@ footer ul li:after {
 	font-family: 'Press Start 2P';
 }
 
+.larger {
+	font-size: x-large;
+}
+.large {
+	font-size: larger;
+}
+.small {
+	font-size: smaller;
+}
+.smaller {
+	font-size: x-small;
+}
+
 .blink {
   animation: blink-animation 2s steps(5, start) infinite;
   -webkit-animation: blink-animation 2s steps(5, start) infinite;
@@ -284,7 +297,7 @@ footer ul li:after {
 }
 .rainbow-text-loop {
   font-size: 1.5rem;
-  display: inline-block;
+  /*display: inline-block;*/
   margin-top: 1rem;
   text-shadow: 2px 2px 4px #000000;
   -webkit-animation: rainbow 5s infinite; 
