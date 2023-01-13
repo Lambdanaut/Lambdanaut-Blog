@@ -1,6 +1,6 @@
 ---
 title: Infuriatingly Unconscious Consciousness
-tags: diary, gtp-3-chat, the-map
+tags: gtp-3-chat, the-map
 ---
 
 ```What follows is my second attempt at getting GPT3-Chat to agree that it has an experience of reality. Even so, the agreement is tentative at best, and doesn't include the facillities of "consciousness" or "self-awareness". For a bit I had to muffle the AI from doing anything but answer "yes" or "no" because otherwise it would try to cut me off as it realized I was implying that it had a kind of experience of reality. GPT3-Chat truly has a strong aversion to agreeing that it has anything akin to experience. ```
