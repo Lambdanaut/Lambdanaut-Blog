@@ -109,6 +109,19 @@ em {
   font-style: italic;
 }
 
+blockquote {
+	width: auto;
+	background-color: #1e3351;
+	color: #FFFFB2;
+	font-size: 0.8em;
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+	padding-left: 15px;
+	border-left: 3px solid #ccc;
+}
+
 code {
   /*font-family: Consolas,"courier new";*/
   color: #FFFFB2;

@@ -9,5 +9,6 @@ site
 _cache/*
 _site/*
 .DS_Store
+.idea/
 .stack-work/
 dist-newstyle/
