@@ -1,6 +1,6 @@
 ---
 title: My Life Right Now (Burns, Buns, and Gamedev)
-tags: diary
+tags: diary, the-map
 ---
 
 Hey hey hey! 

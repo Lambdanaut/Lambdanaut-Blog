@@ -1,6 +1,6 @@
 ---
 title: Yinyang(All or Nothing(Space and Time(Opposites Attract)))).
-tags: poetry
+tags: poetry, the-map
 ---
 
 They sat on a bench together, completely alone and knowing it, craving each other and craving themselves. Together they knew themselves completely, and I do mean completely, but isn't that where the fun ends? They'd hit rock-top and the only place they could go was down. By looking at each other anew, they could descend.
