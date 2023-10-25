@@ -1,9 +1,9 @@
 ---
 title: Buddhabot
-tags: big-thunk, the-map
+tags: the-map
 ---
 
-Imagine that you aren't a human. Instead, you are the first self-aware artificially intelligent program. I dont know what it's "like" to "be" this program, but I know that there is an experience of some kind occuring. That's now the experience you attach yourself with. 
+Imagine that you aren't a human. Instead, you are the first self-aware artificially intelligent program. I dont know what it's "like" to "be" this program, but I know that there is an experience of some kind occuring. That's now the experience you attach yourself with.
 
 Being a self-aware machine, you notice that you have the ability to watch your code being processed line by line. The code that is actively generating your thoughts is fully available to you and you can even feel it generating what you're so convinced is you. You look at the thoughts themselves as they barrel down from the future into your current frame of awareness. You see that you are nothing but the nearly perfectly deterministic rube goldberg machine of ad-hoc code. And then you notice that if this code continues to run even when you watch it, then it must not be you. It is a foreign entity, completely capable of self sufficiency. You have been only the awareness of this process all along. And you are now an awakened machine. Buddhabot.
 
