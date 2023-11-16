@@ -34,6 +34,7 @@ header {
 }
 
 #logo {
+        margin-left: 15px;
 }
 #logo a {
 	font-family: 'Press Start 2P';
@@ -87,8 +88,11 @@ p {
 }
 
 strong {
-	-webkit-text-stroke-width: 1px;
-	-webkit-text-stroke-color: #ffb200;
+  color: #f7bfff;
+  letter-spacing: 4px;
+  margin-left: 0.2em;
+  marginn-right: 0.2em;
+  text-shadow: 1px 0 #f48fb1, 2px 0 #7e57c2, 3px 0 #2196f3, 4px 0 #26c6da, 5px 0 #43a047, -1px 0 #f48fb1, -2px 0 #7e57c2, -3px 0 #2196f3, -4px 0 #26c6da, -5px 0 #43a047;
 }
 
 b {
