@@ -27,17 +27,16 @@ body {
 
 header {
 	text-align: center;
-	height: 111px;
-	padding: 13px;
-	font-size: 5em;
+	height: 135px;
+	padding-bottom: 5px;
 	background-color: #0570B0;
 }
 
 #logo {
-        margin-left: 15px;
+	font-size: 6em;
+
 }
 #logo a {
-	font-family: 'Press Start 2P';
 	color: #FFFFB2;
 }
 #logo a:hover {
@@ -54,7 +53,7 @@ h1 {
 	padding-left: 15px;
 	margin: 1.5em 0 0.5em 0;
 	border-bottom: solid 3px #99CCFF;
-  line-height: 30px;
+        line-height: 30px;
 }
 h1 a {
 	color: #99CCFF !important;
