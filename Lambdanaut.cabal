@@ -6,7 +6,7 @@ cabal-version:      >= 1.10
 executable site
   main-is:          site.hs
   build-depends:    base == 4.*
-                  , hakyll == 4.15.1.1
+                  , hakyll == 4.16.5.0
                   , blaze-html==0.9.1.2
                   , containers==0.6.6
   ghc-options:      -threaded -rtsopts -with-rtsopts=-N

@@ -42,7 +42,7 @@ tagsFieldCustom :: String     -- ^ Destination key
                 -> Tags       -- ^ Tags
                 -> Context a  -- ^ Context
 tagsFieldCustom =
-  tagsFieldWith getTags simpleRenderLink (mconcat . intersperse " ")
+  tagsFieldWith getTags Main.simpleRenderLink (mconcat . intersperse " ")
 
 -- | Render one tag link
 simpleRenderLink :: String -> (Maybe FilePath) -> Maybe H.Html

@@ -27,16 +27,18 @@ body {
 
 header {
 	text-align: center;
-	height: 135px;
+	height: 111px;
 	padding-bottom: 5px;
 	background-color: #0570B0;
+
 }
 
 #logo {
-	font-size: 6em;
-
+	font-size: 5em;
+	margin-left: 15px;
 }
 #logo a {
+	font-family: 'Press Start 2P';
 	color: #FFFFB2;
 }
 #logo a:hover {
@@ -144,7 +146,7 @@ hr {
 }
 
 ul {
-	/*list-style: none;*/
+	list-style-type: square;}
 }
 
 li {
@@ -286,6 +288,37 @@ footer ul li:after {
 }
 .smaller {
 	font-size: x-small;
+}
+
+.padding-5 {
+	padding: 5px;
+}
+.padding-10 {
+	padding: 10px;
+}
+.padding-left-5 {
+	padding-left: 5px;
+}
+.padding-left-10 {
+	padding-left: 10px;
+}
+.padding-right-5 {
+	padding-right: 5px;
+}
+.padding-right-10 {
+	padding-right: 10px;
+}
+.padding-up-5 {
+	padding-up: 5px;
+}
+.padding-up-10 {
+	padding-up: 10px;
+}
+.padding-down-5 {
+	padding-down: 5px;
+}
+.padding-down-10 {
+	padding-down: 10px;
 }
 
 .blink {
