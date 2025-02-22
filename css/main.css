@@ -36,6 +36,7 @@ header {
 #logo {
 	font-size: 5em;
 	margin-left: 15px;
+	padding-top: 3px;
 }
 #logo a {
 	font-family: 'Press Start 2P';
