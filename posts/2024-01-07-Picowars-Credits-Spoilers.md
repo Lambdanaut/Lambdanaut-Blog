@@ -5,6 +5,12 @@ tags: the-map, diary
 
 ## Heyo! 
 
+<br />
+<pre style="background-color: #1d2b53;">
+<marquee>        👄⚫         <span class="rainbow-text">&lt;Om nom nom nom nom)</span><br />🚹      🦵🦵🦵</marquee>
+</pre>
+
+
 So a while back I created this PICO8 game <a href="https://lambdanaut.itch.io/picowars">Picowars</a> and it did pretty well. Some people liked it wow! I even still get around a dozen people playing it daily which is pretty awesome if u ask me. Better than I would have originally thought! 
 
 I'm even going to be a panelist at PAX East 2024 in Boston (Sunday 24th @ 11pm) with several gamedevs who have made de-makes before, including the Portal64 guy who I'm really looking forward to meeting. It was a surprise, and I'm so excited and glad that I'll be able to make it work. 
