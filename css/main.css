@@ -453,10 +453,6 @@ footer ul li:after {
 }
 @media only screen and (max-width: 767px) {
 	/* Mobile */
-	header {
-		font-size: 3em;
-		height: 69px;
-	}
 	.hide-on-mobile {
 		display: none;
 	}
