@@ -20,3 +20,10 @@ You can play the demo right here in your browser.
 Click anywhere in the world and the little dudes will find a way to get there:
 
  <iframe src="/games/side-track/side-track.html" width=720 height=360></iframe>
+
+
+
+2025 UPDATE
+-----------
+
+The code for this has since been re-written in Rust, communicating with Godot via gdnative. It's drastically more performant, and capable of more impressive pathfinding than this version, but I'm leaving this version up for posterity. 
