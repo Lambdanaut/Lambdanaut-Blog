@@ -111,6 +111,11 @@ a:hover {
 	text-decoration: underline;
 }
 
+.writing sup a {
+	/*For id links to divs in the same document.*/
+	text-decoration: none;
+}
+
 em {
   font-style: italic;
 }
@@ -147,7 +152,7 @@ hr {
 }
 
 ul {
-	list-style-type: square;}
+	list-style-type: square;
 }
 
 li {
@@ -285,7 +290,7 @@ footer ul li:after {
 	font-size: larger;
 }
 .small {
-	font-size: smaller;
+	font-size: small;
 }
 .smaller {
 	font-size: x-small;
